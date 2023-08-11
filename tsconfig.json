@@ -23,8 +23,7 @@
   },
   "include": [
     "./config/jest/setupTests.ts",
-    // fixed this issue "'React' refers to a UMD global, but the current file is a module. Consider adding an import instead."
-    "**/*.ts",
-    "**/*.tsx",
+    "./src/**/*.ts",
+    "./src/**/*.tsx",
   ],
 }
