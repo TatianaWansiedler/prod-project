@@ -86,9 +86,8 @@
     "react-i18next": "^11.15.5",
     "react-router-dom": "^6.2.1"
   },
-  "loki": 
-    {
-      "configurations": {
+  "loki": {
+    "configurations": {
       "chrome.laptop": {
         "target": "chrome.app",
         "width": 1366,
